@@ -1,0 +1,4 @@
+#Fri Aug 11 11:07:00 BRT 2023
+base.0=/nfs/homes/mpreto-a/Desktop/mpreto-a/avaliacoesDay03/intra-uuid-554739ab-0441-46df-be99-cc3ed630270b-5050972-lqueirog/Day03/weatherAppV2_proj/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

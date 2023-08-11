@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml:1:1-2:12
+	package
+		INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+		ADDED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml:1:1-2:12
+		INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+		ADDED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+		INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+		ADDED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
+		INJECTED from /nfs/homes/mpreto-a/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/src/main/AndroidManifest.xml
